@@ -1,0 +1,22 @@
+.img{
+	object-fit: cover;
+	height: 400px;
+/* aspect-ratio:16/9; */
+	
+
+/* .height{
+height: 200px; */
+}
+.carousel-container{
+	overflow:hidden;
+	width:100%;
+	height:auto;
+}
+.w-23{max-width:114px}
+ .img-styled{
+ 	height:100px;
+ width:100px;
+margin-right:10px;
+ 	margin-left: 200px;
+ 	display:flex;
+ }
